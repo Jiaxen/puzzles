@@ -1,5 +1,3 @@
-...recursion!
-
 Good news, we've refactored the crossword to reduce duplication!
 
 <A> = <K> <M> <I> <M> <N> (<I>)

@@ -12,7 +12,7 @@ Good news, we've refactored the crossword to reduce duplication!
 <J>* = <C> taxer is excessive, like <O>tology? (<I>)
 <K> = <N> <M> <N> (<K>)
 <L>* = Listened to <A> sheep, I <L> (<I>)
-<M> = Next to bid adieu, I <L> (<N>)
+<M>* = Next to bid adieu, I <L> (<N>)
 <N> = <S> <E> <I> (<S>)
 <O> = <R> <D>bet (<S> ^ <N>) + (<N> <M> <I>), or <N> <G> (<S>)
 <P> = <S> <H> or kitten? (<K>)
@@ -21,4 +21,5 @@ Good news, we've refactored the crossword to reduce duplication!
 <S> = One <E> <K> (<I>)
 
 *cryptic
-The answers at the end reveal a phrase. Please give me the celebrity famous for the phrase.
+The answers at the end reveal a phrase to which you can append the word "puzzles".
+Please give me the celebrity famous for the phrase.
